@@ -47,10 +47,7 @@ ExportedObj/
 *.pidb.meta
 *.pdb.meta
 *.mdb.meta
-*.fbx
-*.prefab
 *.meta
-*.png
 *.terrainlayer
 *.userdata
 
@@ -64,4 +61,3 @@ sysinfo.txt
 
 # Crashlytics generated file
 crashlytics-build.properties
-
